@@ -16,3 +16,5 @@ In other words, what kind of movies tend to do better for each streaming service
 3b) Do movies with high virality actually do well? 
 
 4) What are the descriptors of popular movies? (Are there any common words used to describe successful movies?)
+
+5) Any trend changes observed in 2020 since March? 
