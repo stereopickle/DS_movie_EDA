@@ -15,3 +15,4 @@ In other words, what kind of movies tend to do better for each streaming service
 3a) What is trending? How can we assess the level of virality in movies? (What contributes to the virality).  
 3b) Do movies with high virality actually do well? 
 
+4) What are the descriptors of popular movies? (Are there any common words used to describe successful movies?)
