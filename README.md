@@ -9,6 +9,15 @@ In addition to BOM, TN, and IMDB data provided by Flatiron, the Movie Database (
 
 For this project, we aim to analyze the movie trend of past decade to make suggestions in developing a new movie studio brand for a well-established company like Microsoft. We started off with a number of big questions based on our insights, which then we used to guide our process and recommendations.  
 
+# Structure of Repository
+PNG -- contains images linked in README
+jupyternotebooks -- contains additional topical analyses notebooks
+001.data_collection.ipynb -- contains codes for collecting and cleaning data
+010.Data_Analysis_Overview.ipynb -- contains descriptive analyses and other overview analyses
+011.Data_Analysis_People.ipynb -- contains analyses on directors, writers and casts
+012.Data_Analysis_Synopsis.ipynb -- contains analyses on most frequent words in overview/synopsis 
+README.md
+
 
 # Approach / Questions
 1. Understanding the goal
@@ -195,3 +204,6 @@ We reviewed the movie data from the past decade to propose a few recommendation 
 	Investigate deeper into keywords such as diversity, music, gaming and bollywood
 2. Invest in animation or adventure films for all ages to maximize gains and expand the brand presence
 3. Make lower-budget biography films targeting award nomination to elevate the brand image
+
+
+
