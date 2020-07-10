@@ -25,7 +25,7 @@ For this project, we aim to analyze the movie trend of past decade to make sugge
 		1. **Establishing a sub-brand that matches the existing brand**:  
 		> "Microsoft doesn't just make movies. It makes good movies."
 		2. **Establishing a long term plan**:  
-		Developing a steady long term plan to maximize profit while putting our name out there.
+		Developing a sustainable plan with maximized profit
 		
 2. Understanding the current market 
 	- What types of movies have yielded highest revenue? 
@@ -94,6 +94,8 @@ Animation, action and adventure movies on average have high worldwide gross reve
 ![Budget to Ratio](PNG/Budget_to_Revenue.png)
 
 We see here that in the global market, even some of the lower production budget films have a potential of gaining high revenue. Bohemian Rhapsody and Coco are examples of such cases. It's important to note that these films were explicitly targeting the global market with universally common sentiment and worldwidely popular topic.
+
+(Correlation between production budget and worldwide gross is slightly higher (r > 0.77) than that between budget and domestic gross (r > 0.68), but both are significant.)
 
 We also looked at the main cast of each movies to see if they say anything about the worldwide vs. domestic trend difference. But given our dataset is limited to 10 years and individual actors don't have as many movie data to show individual differences beyond the movie differences. So this result speaks to the overall movies than suggesting information about individual actors. Despite the fact, we still included here because we think it holds some meaningful information. We normalized the worldwide gross and domestic gross to compare them on the same scale as we were interested in knowing relative difference in success.
 
@@ -185,7 +187,7 @@ Other than action, adventure, animation most movies are not as popular. For dram
 
 
 ### Are there any topical pattern in successful movies?  
-Additionally we were interested in seeing if there are any topical keywords related to the success of the films. For this we took the overview texts of high popularity movies (90th percentile and above) and low popularity movies (10th percentile and below) and counted the most used words. 
+Additionally we were interested in seeing if there are any topical keywords related to the success of the films. For this we took the overview texts of high popularity movies (90th percentile and above, 60 movies) and low popularity movies (10th percentile and below, 60 movies) and counted the most used words. 
 
 ![Keyword_High_popularity](PNG/Key_Highpop.png)![Keyword_Low_popularity](PNG/Key_Lowpop.png)  
 
