@@ -1,5 +1,5 @@
-# DS_movie_EDA 
-### Mod 1 Project by Eunjoo Byeon and Paul Torres
+# Movie Trend Analsis 
+### by Eunjoo Byeon and Paul Torres
 
 This repository contains data collection, cleaning and analyses of the movie data from the past decade (2010 - 2019).  
 In addition to BOM, TN, and IMDB data provided by Flatiron, the Movie Database (TMDB) API has been used to complete the dataset. 
